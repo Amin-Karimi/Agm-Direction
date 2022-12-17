@@ -1,12 +1,14 @@
 # Agm-Direction
 
-[![npm version](https://badge.fury.io/js/agm-direction.svg)](https://badge.fury.io/js/agm-direction)
-[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://github.com/Amin-Karimi/Agm-Direction)
+
+This library was generated with Angular CLI version 14.2.0.
+
+
 [![Build Status](https://travis-ci.org/explooosion/Agm-Direction.svg?branch=master)](https://travis-ci.org/explooosion/Agm-Direction)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 
-[Agm-Direction](https://github.com/Amin-Karimi/Agm-Direction) is the directive for [@agm/core](https://github.com/Amin-Karimi/angular-google-maps) (not official)
+[Agm-Direction](https://github.com/Amin-Karimi/Agm-Direction) is the directive for [@amin-karimi/agm-core](https://github.com/Amin-Karimi/angular-google-maps)
 
 - Angular
 - Google Map API
