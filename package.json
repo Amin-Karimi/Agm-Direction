@@ -1,6 +1,6 @@
 {
   "name": "@amin-karimi/agm-direction",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Angular Google Maps direction",
   "license": "MIT",
   "repository": {
@@ -13,7 +13,9 @@
     "google-maps-direction",
     "agm-direction",
     "direction",
-    "angular-14.2"
+    "angular-14.2",
+    "angular-15",
+    "agm"
   ],
   "peerDependencies": {
     "@angular/common": "^14.2.0",
