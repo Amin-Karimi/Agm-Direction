@@ -8,6 +8,12 @@ This library was generated with Angular CLI version 14.2.0.
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 
+[V1.0.2](https://www.npmjs.com/package/@amin-karimi/agm-direction/v/1.0.2) for Angular 14.2
+
+
+[V2.0.0](https://www.npmjs.com/package/@amin-karimi/agm-direction/v/2.0.0) for Angular 15.0.4
+
+
 [Agm-Direction](https://github.com/Amin-Karimi/Agm-Direction) is the directive for [@amin-karimi/agm-core](https://github.com/Amin-Karimi/angular-google-maps)
 
 - Angular
